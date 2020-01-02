@@ -1,0 +1,15 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;This is the place where you can define   ;
+;ports need to be monitored.  		      ;
+;					                      ;
+;Usage:					                  ;
+;[Section_Name]				              ;
+;Description = Port Number		          ;
+;				  	                      ;
+;Example:				                  ;
+;[SSH]					                  ;
+;SSH = 22				                  ;
+;					                      ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
