@@ -1,7 +1,3 @@
-# ThreatHound
-
-ThreatHound HIDS
-
 About Threathound:
 ------------------
 ThreatHound v1.0 is a Host Based Intrusion Detection System (HIDS)
@@ -11,8 +7,8 @@ plays a role in the early detection and logging of malicious traffic.
 Threathound v1.0 doesn't support IPv6 or encrypted traffic.
 
 
-v1.0 Functionalities:
----------------------
+Functionalities:
+----------------
 - Captures/sniffs, interprets and analyzes network traffic.
 - Unpacks and analyzes TCP and ICMP traffic to detect anomalies.
 - Utilizes YARA rules to identify malicious traffic anomalies.
@@ -22,5 +18,5 @@ v1.0 Functionalities:
 
 Developers:
 -----------
-belkhoul@emich.edu
+belkhoul@emich.edu\n
 mbarazi@emich.edu
