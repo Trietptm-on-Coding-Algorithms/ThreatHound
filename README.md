@@ -6,7 +6,6 @@ and presents alerts in a Command Line-based dashboard. Threathound
 plays a role in the early detection and logging of malicious traffic.
 Threathound v1.0 doesn't support IPv6 or encrypted traffic.
 
-
 Functionalities:
 ----------------
 - Captures/sniffs, interprets and analyzes network traffic.
@@ -15,8 +14,7 @@ Functionalities:
 - Port Monitoring feature.
 - Logs detections.
 
-
 Developers:
 -----------
-belkhoul@emich.edu\n
-mbarazi@emich.edu
+- belkhoul@emich.edu
+- mbarazi@emich.edu
