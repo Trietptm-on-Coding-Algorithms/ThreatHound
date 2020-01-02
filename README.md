@@ -13,11 +13,11 @@ Threathound v1.0 doesn't support IPv6 or encrypted traffic.
 
 v1.0 Functionalities:
 ---------------------
->> Captures/sniffs, interprets and analyzes network traffic
->> Unpacks and analyzes TCP and ICMP traffic to detect anomalies
->> Utilizes YARA rules to identify malicious traffic anomalies
->> Port Monitoring feature
->> Logs detections
+- Captures/sniffs, interprets and analyzes network traffic.
+- Unpacks and analyzes TCP and ICMP traffic to detect anomalies.
+- Utilizes YARA rules to identify malicious traffic anomalies.
+- Port Monitoring feature.
+- Logs detections.
 
 
 Developers:
